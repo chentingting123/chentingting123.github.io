@@ -1,7 +1,0 @@
-http://demo.cssmoban.com/cssthemes5/twts_99_xman/index.html
-
-Node.js 链接JSON文件，里面的ID用整型1，不要用字符串"1”，或则会报错，传入的id和文件里的不匹配，就会找不到
-
-3.端口号是门牌号 node.js端口尽量用6000以上的端口， 什么时候用什么样端口 百度
-
-4.AJAX不能用文件形式打开，在服务器端打开
